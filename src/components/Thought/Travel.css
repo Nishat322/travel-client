@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+
+.Travel {
+    background-color: rgb(239, 240, 234);
+    text-align: center;
+    padding: 25px 25px;
+    border-radius: 15px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.Travel_place {
+    min-width: 50%;
+    margin: 10px 0px;
+    padding: 10px 0px;
+    border: none;
+    border-radius: 5px;
+    -webkit-box-shadow: 3px 2px 15px 1px rgba(0, 0, 0, 0.2);
+    box-shadow: 3px 2px 15px 1px rgba(0, 0, 0, 0.2);
+    background-color:rgb(194, 211, 226);
+    font-size: 15px;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif
+}
+
+.Travel_footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.Travel_button {
+    min-width: 20%;
+    padding: 10px 0px;
+    border: none;
+    border-radius: 5px;
+    -webkit-box-shadow: 3px 2px 15px 1px rgba(0, 0, 0, 0.2);
+    box-shadow: 3px 2px 15px 1px rgba(0, 0, 0, 0.2);
+    background-color:rgb(239, 240, 234);
+    font-size: 15px;
+    font-weight: 600;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Description h4 {
+    font-family: 'Architects Daughter', cursive;
+    font-weight: 200;
+    font-size: 18px;
+}
+
+
+
+
+
+  

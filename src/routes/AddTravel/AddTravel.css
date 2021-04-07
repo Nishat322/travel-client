@@ -1,0 +1,54 @@
+.AddTravel{
+  display: block;
+  text-align: center;
+  background: rgb(239, 240, 234);
+  margin: 35px;
+  padding: 25px 0px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 25px;
+  font-family: 'Montserrat', sans-serif;
+} 
+
+.AddTravel_flex {
+  display: flex;
+  margin-left: 100px;
+}
+
+.AddTravel_form
+{
+  display: inline-block;
+  text-align: left;
+  margin-right: 25px;
+}
+
+.AddTravel_image {
+  width: auto;
+}
+
+.AddTravel_form input, .AddTravel_form textarea, .AddTravel_form text {
+  display: block;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  padding: 10px 20px;
+}
+
+.AddTravel_buttons button {
+  text-align: center;
+  display: block;
+  display: inline-block;
+  border-radius: 5px;
+  background-color:rgb(194, 211, 226);
+  color:  black;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bolder;
+  font-size: 18px;
+}
+
+.AddTravel_buttons button:hover {
+  cursor: pointer;
+}
+
+.AddTravel_images {
+  max-width: 100%;
+  height: auto;
+}

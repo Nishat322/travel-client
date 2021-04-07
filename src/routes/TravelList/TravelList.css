@@ -1,0 +1,46 @@
+.TravelList ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+}
+
+.TravelList{
+  padding-top: 50px
+}
+
+.TravelList_grid-container{
+  display: grid;
+  grid-column-gap: 50px;
+  grid-template-columns: auto auto auto;
+  background-color: rgb(239, 240, 234);
+  padding: 10px
+}
+
+.TravelList_button {
+  min-width: 20%;
+  margin: 10px 0px;
+  padding: 10px 0px;
+  border: none;
+  border-radius: 5px;
+  -webkit-box-shadow: 3px 2px 15px 1px rgba(0, 0, 0, 0.2);
+  box-shadow: 3px 2px 15px 1px rgba(0, 0, 0, 0.2);
+  background-color:rgb(239, 240, 234);
+  font-size: 15px;
+  font-weight: 600;
+  font-family: Georgia, 'Times New Roman', Times, serif;    
+}
+
+.TravelList_headline{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.TravelList_headline a{
+  text-decoration: none;
+}
+
