@@ -9,11 +9,12 @@ class LandingPage extends Component {
             <div className = 'LandingPage'>
                 <h1>Destination Diary</h1>
                     <div className = 'LandingPage_body'>
-                        <h3> This application allows you to see where people have traveled to and their impressions of the location.</h3>
-                        <h3> When you click Enter, you will see an organized display of various locations that previous visitors have listed. 
-                             Clicking on any of the destinations will reveal an impression or thoughts of the original poster.
+                        <h3> This diary is a collection of places past users have travelled to and their impressions or thoughts on the location.</h3>
+                        <h3> Use this application to determine your next vacation spot</h3>
+                        <h3> When you click Enter, you will see an organized display of the various locations. Clicking on any of the location name will 
+                            reveal the description of the location.
                         </h3>
-                        <h3> Although not recommended, you are able to delete any of the places you see listed.</h3>
+                        <h3> Visitors are also able to delete any location they see by clicking the remove button.</h3>
                         <h3> Enjoy using this application. Hope you find a place you would like to visit </h3>
                         <div className = 'LandingPage_enter'>
                             <h2><Link to = '/destinations'> Click Here to Enter Diary </Link> </h2>

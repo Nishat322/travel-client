@@ -2,23 +2,23 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Live application: [https://thoughtful-client-nishat322.vercel.app/](https://thoughtful-client-nishat322.vercel.app/)
+Live application: [https://travel-client.vercel.app/](https://travel-client.vercel.app/)
 
-API Repo: [https://github.com/Nishat322/thoughts-api](https://github.com/Nishat322/thoughts-api)
+API Repo: [https://github.com/Nishat322/travel-api](https://github.com/Nishat322/travel-api)
 
 
 ## User Story
+Destination Diary allows users to catalog their travelling experience in one cohesive place. Users can use the application by clicking enter diary. Which leads them to a list of locations listed by previous visitors to the website. Users can add a location by clicking on the add location button. Users are also able to delete any location from the list by clicking on the remove button. 
 
-Thoughtful allows users to see a list of thoughts submitted by any visitor to the webpage. The user first sees the landing page where they can use a button to enter the application. Once a user enters they see a list of thoughts and an option to add their own thought. Clicking on the add thoughts button leads to the add thoughts page where the user can submit their own thought.
 
 ### Landing Page
-![LandingPage](images/landingPage.png)
+![LandingPage]()
 
-### Thoughts Page
-![Thoughts Page](images/thoughtsPage.png)
+### Travel Page
+![Travel Page](images/AddTravel.jpg)
 
-### Add Thoughts Page
-![Add Thoughts Page](images/addThoughtsPage.png)
+### Add Travel Page
+![Add Travel Page]()
 
 ## Tech Stack
 
