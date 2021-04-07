@@ -12,13 +12,13 @@ Destination Diary allows users to catalog their travelling experience in one coh
 
 
 ### Landing Page
-![LandingPage]()
+![LandingPage](images/LandingPage.jpg)
 
 ### Travel Page
-![Travel Page](images/AddTravel.jpg)
+![Travel Page](images/TravelList.jpg)
 
 ### Add Travel Page
-![Add Travel Page]()
+![Add Travel Page](images/AddTravel.jpg)
 
 ## Tech Stack
 
