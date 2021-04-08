@@ -17,7 +17,7 @@ class LandingPage extends Component {
                         <h3> Visitors are also able to delete any location they see by clicking the remove button.</h3>
                         <h3> Enjoy using this application. Hope you find a place you would like to visit </h3>
                         <div className = 'LandingPage_enter'>
-                            <h2><Link to = '/destinations'> Click Here to Enter Diary </Link> </h2>
+                            <h2><Link to = '/destinations'> Enter Diary </Link> </h2>
                         </div>
                     </div>
             </div>
