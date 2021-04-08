@@ -16,6 +16,7 @@ class App extends Component {
     }
 
     componentDidMount(){
+        //fetches an array of locations
         fetch(`${config.API_ENDPOINT}/travel`)
             .then(res =>
                 !res.ok ? res.json().then((e) => Promise.reject(e)) : res.json()

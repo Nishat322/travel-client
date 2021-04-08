@@ -51,6 +51,7 @@ class AddTravel extends Component {
         this.props.history.push('/destinations')
     }
 
+    //renders the list of locations
     render() { 
         return (  
             <div className = 'AddTravel'>

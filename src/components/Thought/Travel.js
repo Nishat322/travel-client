@@ -35,13 +35,14 @@ class Travel extends Component {
             })
     }
 
+    //controls whether the description will display or not
     displayDescription = () => {
         this.setState({
             displayDescription: !this.state.displayDescription
         })
     }
 
-
+    //renders each individual location
     render() { 
         const {place, author, description, date_added} = this.props
         return ( 
